@@ -1,11 +1,7 @@
-# pravashkarki.com
-Thoughts of Pravash
-
 ## 👋 Hi, I’m @pravash (Pravash Karki)
 #### CEO at Last Door ✪ Designer (HCI/UX, UI, UCD) | MSc Data Analytics Student at London Met
 
-- 🌱 Learning: **Data Science**
-- 📫 Reach Me: hey@prav.co
+- 📫 Reach Me: pravash@lastdoorsolutions.com
 - https://www.linkedin.com/in/pravashkarki/
 
 Pravash Karki (Prav) dreams of a better world. He hopes for a better life, of a just and equitable society.
