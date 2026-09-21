@@ -1,18 +1,10 @@
-# 👋 Hi, I am Pravash Karki
-### HCI-Certified Product Designer & CEO at Last Door
+# Pravash Karki
 
+Product designer and AI solutions architect.
 
-I lead a team of talented designers and developers at [Last Door](http://lastdoorsolutions.com), who create world-class websites and apps. 
+I lead product design at Highstep, and build the AI tools my studio, [LastDoor](https://lastdoorsolutions.com), uses.
 
-We specialise in crafting visually stunning, scalable, and user-friendly custom websites using Drupal and WordPress. 
-
-If you seek a reliable, innovative, and dedicated team to collaborate. Feel free to reach out.
-
----
-
-For 2024, I am focusing on Crafting tools & resources for designers who love to build fast and think faster. Your go-to for a slick design workflow #DesignSmarter #DesignFaster 👉 [http://pravash.gumroad.com](http://pravash.gumroad.com)
-
----
-
-- 📫 Let's Connect: [https://www.linkedin.com/in/pravashkarki/](https://www.linkedin.com/in/pravashkarki/)
-- 🕸 Work: [http://lastdoorsolutions.com](http://lastdoorsolutions.com)
+- Site and essays: [pravashkarki.com](https://pravashkarki.com)
+- [Agent Operating System](https://github.com/pravashkarki/agent-operating-system): how I work with AI coding agents, public edition
+- [inkwell](https://github.com/pravashkarki/inkwell): the Markdown blog template the site runs on
+- [LinkedIn](https://www.linkedin.com/in/pravkarki/)
